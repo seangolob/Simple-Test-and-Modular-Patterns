@@ -9,5 +9,5 @@ var myArg = process.argv[2];
 
 if(myArg) {
   console.log(hello.greet(myArg));
-};
+}
 

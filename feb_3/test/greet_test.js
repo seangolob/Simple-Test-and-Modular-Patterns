@@ -1,6 +1,6 @@
 'use strict';
 
-var hello = require('../lib/greeting')
+var hello = require('../lib/greeting');
 var expect = require('chai').expect;
 
 describe('greeting', function() {

@@ -1,0 +1,32 @@
+{
+  "name": "seanGolob",
+  "version": "0.1.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-simple-mocha": "^0.4.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seangolob/Simple-Test-and-Modular-Patterns.git"
+  },
+  "author": "Sean Golob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seangolob/Simple-Test-and-Modular-Patterns/issues"
+  },
+  "homepage": "https://github.com/seangolob/Simple-Test-and-Modular-Patterns"
+}
